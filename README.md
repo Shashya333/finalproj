@@ -47,6 +47,7 @@ spotify-clone/
 2. Place your MP3 files in the respective mood/artist folders under `songs/`
 3. Update the `info.json` files in each folder with appropriate metadata
 4. Open `index.html` in a web browser
+5. To avoid this process when you just need to check out the project , some songs are included in one of the songs subfolders which is what always runs at the current state of the project 
 
 ## Key Features Implementation
 
