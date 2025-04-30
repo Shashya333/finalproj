@@ -1,4 +1,4 @@
-# finalproj
+# FINAL-PROJECT
 #spotify clone under development
 # current state of the project
 A responsive web-based Spotify clone that allows users to play music, browse playlists, and control playback. Built with HTML, CSS, and JavaScript.
